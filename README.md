@@ -1,3 +1,3 @@
 # Neural_Network
 Работы в рамках курса Neural Network. 
-Скоро тут будет опубликована Дипломная Работа по курсу.
+Дипломная работа по курсу - https://github.com/Belousov-Aleksandr/Emotion-Recognition_Neural_Network
